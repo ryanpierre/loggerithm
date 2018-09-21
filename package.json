@@ -1,0 +1,30 @@
+{
+  "name": "logman",
+  "version": "1.0.0",
+  "description": "A little tool to make logging more clear in node applications",
+  "main": "logger.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanpierre/logman.git"
+  },
+  "keywords": [
+    "logging",
+    "node",
+    "pretty",
+    "beautiful"
+  ],
+  "author": "Ryan Pierre <info@ryanpierre.com> (http://ryanpierre.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanpierre/logman/issues"
+  },
+  "homepage": "https://github.com/ryanpierre/logman#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "morgan": "^1.9.1",
+    "util": "^0.11.0"
+  }
+}
