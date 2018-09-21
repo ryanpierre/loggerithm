@@ -1,14 +1,14 @@
 {
-  "name": "logman",
+  "name": "loggerithm",
   "version": "1.0.0",
   "description": "A little tool to make logging more clear in node applications",
-  "main": "logger.js",
+  "main": "loggerithm.js",
   "scripts": {
-    "test": "test"
+    "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanpierre/logman.git"
+    "url": "git+https://github.com/ryanpierre/loggerithm.git"
   },
   "keywords": [
     "logging",
@@ -19,9 +19,9 @@
   "author": "Ryan Pierre <info@ryanpierre.com> (http://ryanpierre.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ryanpierre/logman/issues"
+    "url": "https://github.com/ryanpierre/loggerithm/issues"
   },
-  "homepage": "https://github.com/ryanpierre/logman#readme",
+  "homepage": "https://github.com/ryanpierre/loggerithm#readme",
   "dependencies": {
     "colors": "^1.3.2",
     "morgan": "^1.9.1",
